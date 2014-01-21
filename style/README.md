@@ -11,7 +11,7 @@ Git
 * Squash multiple trivial commits into a single commit.
 * Write a [good commit message].
 
-[rebase workflow]: https://github.com/thoughtbot/guides/tree/master/protocol#merge
+[rebase workflow]: https://github.com/losttie/workbook/tree/master/contributing_to_projects#merge
 [good commit message]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
 Formatting
